@@ -19,6 +19,8 @@
 
 * [重写promise](https://github.com/wind-jyf/blog/blob/master/ES/%E3%80%90ES6%E3%80%91%E9%87%8D%E5%86%99Promise.md)
 
+* [关于this](https://github.com/wind-jyf/blog/blob/master/JS/%E3%80%90JS%E3%80%91%E5%85%B3%E4%BA%8Ethis.md)
+
 #### JS系列
 
 * [Ajax](https://github.com/wind-jyf/blog/blob/master/JS/%E3%80%90JS%E3%80%91Ajax.md)
