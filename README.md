@@ -34,6 +34,8 @@
 * [函数柯里化,apply,call,bind](https://github.com/wind-jyf/blog/blob/master/JS/%E3%80%90JS%E3%80%91%E5%87%BD%E6%95%B0%E6%9F%AF%E9%87%8C%E5%8C%96%20apply%2Ccall%2Cbind.md)
 
 * [原型与原型链](https://github.com/wind-jyf/blog/blob/master/JS/%E3%80%90JS%E3%80%91%E5%8E%9F%E5%9E%8B%E4%B8%8E%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
+
+* [类型](https://github.com/wind-jyf/blog/blob/master/JS/%E3%80%90JS%E3%80%91%E7%B1%BB%E5%9E%8B.md)
 #### Vue系列
 
 * [Vue习题](https://github.com/wind-jyf/blog/blob/master/Vue/%E3%80%90Vue%E3%80%91Vue%E4%B9%A0%E9%A2%98.md)
