@@ -57,6 +57,7 @@
 * [两两交换链表中的节点](https://github.com/wind-jyf/blog/issues/28)
 * [两数相除](https://github.com/wind-jyf/blog/issues/29)
 * [最长回文字符串](https://github.com/wind-jyf/blog/issues/31)
+* [盛最多水的容器]( https://github.com/wind-jyf/blog/issues/32 )
 
 #### webpack
 
