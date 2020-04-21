@@ -58,6 +58,8 @@
 * [两数相除](https://github.com/wind-jyf/blog/issues/29)
 * [最长回文字符串](https://github.com/wind-jyf/blog/issues/31)
 * [盛最多水的容器]( https://github.com/wind-jyf/blog/issues/32 )
+* [最长公共前缀]( https://github.com/wind-jyf/blog/issues/33 )
+* [回文数]( https://github.com/wind-jyf/blog/issues/34 )
 
 #### webpack
 
