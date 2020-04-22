@@ -60,6 +60,8 @@
 * [盛最多水的容器]( https://github.com/wind-jyf/blog/issues/32 )
 * [最长公共前缀]( https://github.com/wind-jyf/blog/issues/33 )
 * [回文数]( https://github.com/wind-jyf/blog/issues/34 )
+* [反转链表]( https://github.com/wind-jyf/blog/issues/35 )
+* [反转链表II]( https://github.com/wind-jyf/blog/issues/36 )
 
 #### webpack
 
