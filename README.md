@@ -64,6 +64,7 @@
 * [反转链表II]( https://github.com/wind-jyf/blog/issues/36 )
 * [使数组唯一的最小增量]( https://github.com/wind-jyf/blog/issues/37 )
 * [最大子序列和]( https://github.com/wind-jyf/blog/issues/38 )
+* [买股票的最佳时机]( https://github.com/wind-jyf/blog/issues/39 )
 
 #### webpack
 
