@@ -67,6 +67,7 @@
 * [买股票的最佳时机]( https://github.com/wind-jyf/blog/issues/39 )
 * [合并两个有序数组]( https://github.com/wind-jyf/blog/issues/40 )
 * [三数之和]( https://github.com/wind-jyf/blog/issues/41 )
+* [斐波那契数列]( https://github.com/wind-jyf/blog/issues/42 )
 
 #### webpack
 
