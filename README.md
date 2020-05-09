@@ -68,6 +68,8 @@
 * [合并两个有序数组]( https://github.com/wind-jyf/blog/issues/40 )
 * [三数之和]( https://github.com/wind-jyf/blog/issues/41 )
 * [斐波那契数列]( https://github.com/wind-jyf/blog/issues/42 )
+* [两个数组的交集]( https://github.com/wind-jyf/blog/issues/43)
+* [两个数组的交集II]( https://github.com/wind-jyf/blog/issues/44 )
 
 #### webpack
 
