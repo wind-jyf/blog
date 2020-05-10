@@ -70,6 +70,8 @@
 * [斐波那契数列]( https://github.com/wind-jyf/blog/issues/42 )
 * [两个数组的交集]( https://github.com/wind-jyf/blog/issues/43)
 * [两个数组的交集II]( https://github.com/wind-jyf/blog/issues/44 )
+* [子集](https://github.com/wind-jyf/blog/issues/45)
+* [子集II]( https://github.com/wind-jyf/blog/issues/46 )
 
 #### webpack
 
