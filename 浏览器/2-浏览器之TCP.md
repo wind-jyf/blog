@@ -9,7 +9,7 @@
 * 数据包要在互联网上进行传输，就要符合网际协议（简称IP）标准
 * 如果想把数据包从主机A发送到主机B，在传输之前，数据包会被附上主机B的IP地址信息
 
-![11](E:\1-github博客\blog\images\11.png)
+![11](https://raw.githubusercontent.com/wind-jyf/blog/master/images/11.png)
 
 下面是数据包从主机A到主机B的旅程：
 
@@ -27,7 +27,7 @@
 
 **用户数据包协议**，简称**UPD**，是基于IP之上开发能和应用打交道的协议。
 
-UPD中最重要的信息就是端口号，IP是通过IP地址信息把数据包发送到指定的电脑，而UDP是通过端口号把数据包分发给正确的程序。![12](E:\1-github博客\blog\images\12.png)
+UPD中最重要的信息就是端口号，IP是通过IP地址信息把数据包发送到指定的电脑，而UDP是通过端口号把数据包分发给正确的程序。![12](https://raw.githubusercontent.com/wind-jyf/blog/master/images/12.png)
 
 下面是数据包从主机A到主机B的旅程：
 
@@ -58,13 +58,13 @@ UPD中最重要的信息就是端口号，IP是通过IP地址信息把数据包�
 * 对于数据包丢失情况，TCP协议提供重传协议
 * 还提供了用于排列的序列号，以便接收端通过序号来重排数据包
 
-![12](E:\1-github博客\blog\images\13.png)
+![13](https://raw.githubusercontent.com/wind-jyf/blog/master/images/13.png)
 
 
 
 下面再来看看完整的TCP连接过程，一个完整的TCP连接的生命周期包括“建立连接”、“传输数据”、“断开连接”三个阶段。
 
-![14](E:\1-github博客\blog\images\14.png)
+![14](https://raw.githubusercontent.com/wind-jyf/blog/master/images/14.png)
 
 
 
