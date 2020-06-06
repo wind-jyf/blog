@@ -91,4 +91,5 @@
 
 * [1-浏览器多进程架构 ]( https://github.com/wind-jyf/blog/issues/47 )
 * [2-浏览器之TCP协议](https://github.com/wind-jyf/blog/issues/48)
+* [3-浏览器之HTTP协议]( https://github.com/wind-jyf/blog/issues/49 )
 

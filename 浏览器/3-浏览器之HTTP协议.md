@@ -22,7 +22,7 @@
 
 > HTTP是应用层协议，用来封装请求的文本信息；使用TCP/IP作为传输层的协议，在浏览器工作开始之前，浏览器需要通过TCP与服务器建立连接，所以HTTP内容是通过TCP传输数据阶段实现的
 
-![15](E:\1-github博客\blog\images\15.png)
+![15](https://raw.githubusercontent.com/wind-jyf/blog/master/images/15.png)
 
 我们在建立TCP连接时，需要获得IP一级端口号，此时该如何获取呢？
 
@@ -44,7 +44,7 @@ Chrome有个机制，同一域名同时最多只能建立6个TCP连接，如果�
 
 ##### 6.发送HTTP请求
 
-![16](E:\1-github博客\blog\images\16.png)
+![16](https://raw.githubusercontent.com/wind-jyf/blog/master/images/16.png)
 
 1. 浏览器会向服务器发送请求行，它包括请求方法，请求URI和HTTP协议版本
 2. 在浏览器发送请求行命令后，还要以请求头形式发送其他信息，例如浏览器所使用的操作系统、cookie信息等等
@@ -54,7 +54,7 @@ Chrome有个机制，同一域名同时最多只能建立6个TCP连接，如果�
 
 ##### 1.返回请求
 
-![17](E:\1-github博客\blog\images\17.png)
+![17](https://raw.githubusercontent.com/wind-jyf/blog/master/images/17.png )
 
 ##### 2.断开连接
 
@@ -72,7 +72,7 @@ Connection:Keep-Alive
 
 例如在浏览器中打开geekbang.org后，会发现最终打开的网址是http://www.geekbang.org
 
-![18](E:\1-github博客\blog\images\18.png)
+![18](https://raw.githubusercontent.com/wind-jyf/blog/master/images/18.png)
 
 1. 相应行返回的状态码是301，便是告诉浏览器，要进行重定向
 2. 重定向的网址便在Location字段中
@@ -85,14 +85,14 @@ Connection:Keep-Alive
 
 
 
-![19](E:\1-github博客\blog\images\19.png)
+![19](https://raw.githubusercontent.com/wind-jyf/blog/master/images/19.png)
 
 1. 浏览器通过响应头的Cache-Control字段来设置是否缓存该资源
 2. DNS缓存和页面资源缓存这两块数据会被浏览器缓存的
 
 
 
-![20](E:\1-github博客\blog\images\20.png)
+![20]( https://raw.githubusercontent.com/wind-jyf/blog/master/images/20.png)
 
 
 
