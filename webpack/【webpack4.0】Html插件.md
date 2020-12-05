@@ -61,7 +61,35 @@ module.exports = {
 }
 ```
 
-***
+
+
+多入口书写
+
+```javascript
+'use strict';
+
+const path = require('path');
+
+module.exports = { //导出一个对象
+    entry:{
+        index:'./src/index.js',
+        search:'./src/search.js'//多入口
+    },
+    output:{
+        path:path.join(__dirname,"dist"),
+        filename:'[name].js'  //使用占位符
+    },
+    mode:'production'
+}
+```
+
+
+
+
+
+
+
+
 
 ***END***
 
