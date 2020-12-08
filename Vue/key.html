@@ -1,0 +1,55 @@
+<!--
+ * @Author: 江羽凤
+ * @Date: 2020-12-08 13:29:49
+ * @LastEditTime: 2020-12-08 16:38:27
+ * @LastEditors: 江羽凤
+ * @Description: 
+ * @FilePath: \CSSh:\面试准备\Vue\key.html
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</head>
+<body>
+    <div id="app">
+        <span>ID:</span><input type="text" v-model="id">
+        <span>Name:</span><input type="text" v-model="name">
+        <button @click="handleClick">添加</button>
+
+        <div v-for="(item, index) in list" :key="index">
+            <input type="checkbox" />
+            <span @click="handleDelete(index)">{{item.id}} --- {{item.name}}</span>
+        </div>
+    </div>
+    <script>
+        let vm = new Vue({
+            el: '#app',
+            data: {
+                id: '',
+                name: '',
+                list: [
+                    {id: 1, name: '张三'},
+                    {id: 2, name: '李四'},
+                    {id: 3, name: '王五'},
+                    {id: 4, name: '赵六'},
+                ]
+            },
+            methods: {
+                handleClick() {
+                    this.list.unshift({
+                        id: this.id,
+                        name: this.name
+                    })
+                },
+                handleDelete(index) {
+                    this.list.splice(index, 1)
+                }
+            },
+        })
+    </script>
+</body>
+</html>
